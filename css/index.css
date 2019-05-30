@@ -1,0 +1,12 @@
+.homegirl-container {
+  height: 100vh;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.homegirl {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
